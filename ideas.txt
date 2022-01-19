@@ -6,3 +6,4 @@ Creating Login page and saving the user information in Mongo dB database.
 Saving static data for BMI from different source in CSV format and converting it to the JSON.
 Write the queries in Nodejs to fetch the data to the front end. 
 For Mongo dB, will build the schema for various tables like user profile, BMI and connect to the Nodejs using mongoose config. 
+
