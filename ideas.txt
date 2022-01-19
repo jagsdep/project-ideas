@@ -1,0 +1,8 @@
+Project Overview
+
+Connecting database to existing capstone project that is Fitness Freaks and have BMI calculated for the users. Using datasets from two different data source and compare the BMI from both data source and analyze the avg BMI for gender like male and female where the user can be able to visualize the data in the form of graph, pie chart, bar graph.
+
+Creating Login page and saving the user information in Mongo dB database. 
+Saving static data for BMI from different source in CSV format and converting it to the JSON.
+Write the queries in Nodejs to fetch the data to the front end. 
+For Mongo dB, will build the schema for various tables like user profile, BMI and connect to the Nodejs using mongoose config. 
